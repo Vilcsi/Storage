@@ -1,0 +1,134 @@
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\StoreHouse.dll.config
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\StoreHouse.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\StoreHouse.pdb
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\csc.exe
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\csc.exe.config
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\csc.rsp
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\csi.exe
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\csi.rsp
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\System.AppContext.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\vbc.exe
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\vbc.exe.config
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\vbc.rsp
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\VBCSCompiler.exe
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\Antlr3.Runtime.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\EntityFramework.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\EntityFramework.SqlServer.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\Newtonsoft.Json.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\System.Web.Helpers.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\System.Web.Mvc.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\System.Web.Optimization.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\System.Web.Razor.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\System.Web.WebPages.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\System.Web.WebPages.Razor.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\WebGrease.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\EntityFramework.xml
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\EntityFramework.SqlServer.xml
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\System.Web.Helpers.xml
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\System.Web.Mvc.xml
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\System.Web.Optimization.xml
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\System.Web.Razor.xml
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\System.Web.WebPages.xml
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\System.Web.WebPages.Razor.xml
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\Newtonsoft.Json.xml
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\Antlr3.Runtime.pdb
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\obj\Debug\StoreHouse.csprojAssemblyReference.cache
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\obj\Debug\StoreHouse.csproj.CoreCompileInputs.cache
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\obj\Debug\StoreHouse.csproj.CopyComplete
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\obj\Debug\StoreHouse.dll
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\obj\Debug\StoreHouse.pdb
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\obj\Debug\StoreHouse.Migrations.InitialCreate.resources
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\obj\Debug\StoreHouse.csproj.GenerateResource.cache
+C:\Users\Violetta.Gedei.ext\Documents\Visual Studio 2017\Projects\StoreHouse\StoreHouse\obj\Debug\StoreHouse.Migrations.InitialCreate1.resources
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\StoreHouse.dll.config
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\StoreHouse.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\StoreHouse.pdb
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\csc.exe
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\csc.exe.config
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\csc.rsp
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\csi.exe
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\csi.rsp
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\System.AppContext.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\vbc.exe
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\vbc.exe.config
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\vbc.rsp
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\Antlr3.Runtime.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\EntityFramework.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\EntityFramework.SqlServer.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\Newtonsoft.Json.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\System.Web.Helpers.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\System.Web.Mvc.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\System.Web.Optimization.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\System.Web.Razor.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\System.Web.WebPages.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\WebGrease.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\EntityFramework.xml
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\EntityFramework.SqlServer.xml
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\System.Web.Helpers.xml
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\System.Web.Mvc.xml
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\System.Web.Optimization.xml
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\System.Web.Razor.xml
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\System.Web.WebPages.xml
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\Newtonsoft.Json.xml
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\Antlr3.Runtime.pdb
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\obj\Debug\StoreHouse.csprojAssemblyReference.cache
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\obj\Debug\StoreHouse.Migrations.InitialCreate.resources
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\obj\Debug\StoreHouse.Migrations.InitialCreate1.resources
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\obj\Debug\StoreHouse.csproj.GenerateResource.cache
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\obj\Debug\StoreHouse.csproj.CoreCompileInputs.cache
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\obj\Debug\StoreHouse.csproj.CopyComplete
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\obj\Debug\StoreHouse.dll
+C:\Users\Vilcsi\source\repos\Storage\StoreHouse\obj\Debug\StoreHouse.pdb

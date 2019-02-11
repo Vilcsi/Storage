@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Statistics";
+}
+
+<h2>Statistics</h2>
+
+<div style="display:flex;justify-content:center">
+    <table class="myTable">
+        <tr>
+            <th>Total Value (HUF)</th>
+            <th>Total Mass</th>
+            <th>Product(s) with Highest Quantity</th>
+            <th>Highest Mass Product</th>
+        </tr>
+        <tr>
+            <td>@ViewBag.TotalValue</td>
+            <td>@ViewBag.TotalMass</td>
+            <td>@ViewBag.MaxQuantity</td>
+            <td>@ViewBag.MaxMass</td>
+        </tr>
+    </table>
+</div>

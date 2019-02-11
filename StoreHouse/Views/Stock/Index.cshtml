@@ -1,0 +1,90 @@
+﻿@using StoreHouse.Models
+@model IEnumerable<StoreHouse.Models.Stock>
+
+<h2> Currently found items in stock:</h2>
+
+<p>
+    <a href='@Url.Action("Add", "Product")'>
+        <button class="btn bg-success img-rounded">Add new</button>
+    </a>
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Product.ProductID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Product.Name)
+        </th>
+        <th>
+            @Html.Label("UnitPrice (EUR)")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Product.Description)
+        </th>
+        <th>
+            @Html.Label("Mass (KG)")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Product.ProductID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Product.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => (item.Product.UnitPrice))
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Product.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Product.Mass)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Quantity)
+        </td>
+        @using (Html.BeginForm("Modify", "Stock", new { id = item.ProductID }, FormMethod.Post))
+        {
+            <td>
+                <input type="text" style="width:180px;font-family:Verdana" name="Quantity" id="Quantity" class="form-control glyphicon" placeholder="Add/Remove quantity" />              
+            </td>
+            <td>
+                <button type="submit" class="btn bg-success img-rounded" name="submitButton" value="Add">
+                    <span class="glyphicon glyphicon-plus"></span>
+                </button>
+                <button type="submit" class="btn alert-danger img-rounded" name="submitButton" value="Remove">
+                    <span class="glyphicon glyphicon-minus"></span>
+                </button>               
+            </td>
+        }
+        <td>
+            @Html.ActionLink(
+        " ",
+        "Edit",
+        "Product",
+        new { id = item.ProductID },
+        new { @class = "glyphicon glyphicon-pencil" })
+
+            @Html.ActionLink(
+                " ",
+                "Delete",
+                "Product",
+                new { id = item.ProductID},
+                new { @onclick = "return confirm('Are you sure you want to delete this item?');",
+                        @class = "glyphicon glyphicon-trash" })
+        </td>
+     </tr>
+    }
+</table>
